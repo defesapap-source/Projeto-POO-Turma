@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário P.A.P - Grupo 2</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #2e7d32;
+    }
+    .box {
+      background: #fff;
+      padding: 15px 20px;
+      border-radius: 8px;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .dados {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 10px;
+    }
+    strong { color: #000; }
+  </style>
+</head>
+<body>
+
+  <h1>Instituto Médio Comercial de Luanda</h1>
+  <h2>Formulário de Proposta de Tema – P.A.P</h2>
+
+  <div class="box dados">
+    <p><strong>Curso:</strong> Informática de Gestão</p>
+    <p><strong>Turma:</strong> ATI13</p>
+    <p><strong>Sala:</strong> 19</p>
+    <p><strong>Turno:</strong> Noite</p>
+    <p><strong>Grupo Nº:</strong> 2</p>
+    <p><strong>Ano Lectivo:</strong> 2025</p>
+  </div>
+
+  <div class="box">
+    <p><strong>Título do Tema:</strong> Desenvolvimento de um Sistema de Gestão Digital para Coleta de Lixo em Comunidades</p>
+  </div>
+
+  <div class="box">
+    <h3>Objeto de Estudo</h3>
+    <p>O presente trabalho propõe o desenvolvimento de um sistema digital que visa melhorar a comunicação entre moradores e empresas de limpeza urbana, permitindo o reporte e o acompanhamento da coleta de lixo em comunidades de Luanda. O sistema facilitará o envio de informações sobre contentores cheios, rotas de recolha e notificações de coleta, tornando o processo mais eficiente e transparente.</p>
+  </div>
+
+  <div class="box">
+    <h3>Problema Identificado</h3>
+    <p>Em várias comunidades de Luanda, os contentores permanecem cheios durante longos períodos devido à falta de comunicação e monitoramento entre os moradores e as empresas de limpeza. Atualmente, a comunicação é feita por rádio ou WhatsApp, o que causa atrasos e falta de registro formal das ocorrências. Isso resulta em lixo acumulado, maus odores e riscos à saúde pública.</p>
+  </div>
+
+  <div class="box">
+    <h3>Objetivo Geral</h3>
+    <p>Desenvolver um sistema de gestão comunitária para coleta de lixo, que facilite o reporte, acompanhamento e controle das operações de recolha, promovendo uma gestão mais eficiente e participativa.</p>
+  </div>
+<\body>
+<\html>
